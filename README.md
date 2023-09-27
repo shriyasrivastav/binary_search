@@ -10,6 +10,8 @@ Read inputs, sort and call function
 
 Read inputs and sort
 Loop for binary search
+
+
 1. Recursive approach
 I. Function definition
 Code Explanation:
@@ -24,6 +26,8 @@ Code Explanation:
 Inputs: Read the list length from the user and the elements of the list. Append the elements to the list
 sorted(int_list): A prerequisite for binary search is to have a sorted list. Hence using sorted(), we sort the list
 Function call: The inputs are passed to the function binary_search. The value returned is printed.
+
+
 2. Iterative Approach:
 Now, let’s discuss python binary search iterative approach:
 
